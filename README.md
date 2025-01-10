@@ -88,11 +88,6 @@ I love competing on Kaggle, where I tackle data challenges across domains. Check
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrajeetapache&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetapache&layout=compact&theme=tokyonight)  
-![Kaggle Profile Views](https://komarev.com/ghpvc/?username=indrajeetapache&style=flat-square)
 
 ---
 
